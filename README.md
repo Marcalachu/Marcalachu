@@ -18,9 +18,9 @@ Me entusiasma explorar nuevas tecnologías, optimizar el rendimiento y contribui
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Tu-Usuario-GitHub]&show_icons=true&theme=radical)](https://github.com/[Marcalachu])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Marcalachu]&show_icons=true&theme=radical)](https://github.com/[Marcalachu])
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Tu-Usuario-GitHub]&layout=compact&theme=radical)](https://github.com/[Marcalachu])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Marcalachu]&layout=compact&theme=radical)](https://github.com/[Marcalachu])
 
 ---
 
