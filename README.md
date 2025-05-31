@@ -23,6 +23,10 @@ Me entusiasma explorar nuevas tecnologías, optimizar el rendimiento y contribui
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Marcalachu]&layout=compact&theme=radical)](https://github.com/[Marcalachu])
 
 ---
+💼 Experiencia Clave: Proyectos Privados
+Mi core expertise radica en el desarrollo de soluciones robustas y eficientes, con una trayectoria significativa en proyectos privados y confidenciales. En estos entornos, he perfeccionado mis habilidades en Python y C para abordar desafíos complejos, desde la optimización de sistemas de bajo nivel hasta la construcción de arquitecturas escalables.
+
+Por eso tengo tan pocos repositorios en este momento tengo mas de 100 privados
 
 
 ---
